@@ -76,7 +76,8 @@ The clean images (ground truth) are displayed for comparison with the predicted 
 
 ### Findings
 - The CNN-based model effectively reduces noise in images.
-- Achieved an average PSNR of 17.62 dB.
+- Achieved an average PSNR of 17.74 dB for Test Data.
+- Achieved an average PSNR of 18.03 dB for Train Data.
 
 ### Improvements
 - Experiment with deeper networks or adding skip connections.
